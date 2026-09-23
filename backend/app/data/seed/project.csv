@@ -1,0 +1,2 @@
+id,name,deadline,target_quantity,quality_criteria
+PRJ-001,North Ridge Site,2026-12-31T18:00:00,50000,"{""tolerance_cm"": 5}"
