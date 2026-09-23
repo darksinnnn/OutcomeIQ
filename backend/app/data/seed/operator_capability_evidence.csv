@@ -1,0 +1,101 @@
+id,operator_id,task_type,weather_bucket,material,sample_count,success_count,avg_time_delta_pct,avg_quality_success_pct,confidence,last_verified_at
+EV-0902dc1d,OP-1001,Earth Excavation,normal,,6,3,-1.1,77.4,0.26,2026-09-20T00:00:00
+EV-95ebf221,OP-1001,Earth Excavation,adverse,,1,0,2.7,97.2,0.0,2026-09-20T00:00:00
+EV-7eb0435e,OP-1001,Trenching,normal,,28,26,-0.4,85.5,0.9,2026-09-20T00:00:00
+EV-a207e16d,OP-1001,Trenching,adverse,,11,5,6.1,71.3,0.34,2026-09-20T00:00:00
+EV-82fcb1b2,OP-1001,Material Loading,normal,,10,6,11.7,93.9,0.43,2026-09-20T00:00:00
+EV-8cb1c982,OP-1001,Material Loading,adverse,,3,1,1.1,93.4,0.1,2026-09-20T00:00:00
+EV-aa80187c,OP-1001,Grading,normal,,8,4,-3.8,77.5,0.32,2026-09-20T00:00:00
+EV-8c8397da,OP-1001,Grading,adverse,,2,1,-4.6,90.4,0.11,2026-09-20T00:00:00
+EV-0ede1a7a,OP-1001,Demolition,normal,,8,5,-2.6,95.9,0.4,2026-09-20T00:00:00
+EV-addc8a73,OP-1001,Demolition,adverse,,7,3,8.9,91.7,0.25,2026-09-20T00:00:00
+EV-d0853811,OP-1002,Earth Excavation,normal,,4,3,0.0,71.9,0.3,2026-09-20T00:00:00
+EV-a6270af7,OP-1002,Earth Excavation,adverse,,10,4,2.0,94.8,0.29,2026-09-20T00:00:00
+EV-ea2e97a5,OP-1002,Trenching,normal,,23,15,-2.7,76.9,0.62,2026-09-20T00:00:00
+EV-e59512af,OP-1002,Trenching,adverse,,8,4,0.6,86.3,0.32,2026-09-20T00:00:00
+EV-4ab8db67,OP-1002,Material Loading,normal,,14,8,12.0,84.3,0.47,2026-09-20T00:00:00
+EV-91a7a685,OP-1002,Material Loading,adverse,,2,1,9.2,74.3,0.11,2026-09-20T00:00:00
+EV-ec0b20e4,OP-1002,Grading,normal,,8,6,0.4,71.8,0.47,2026-09-20T00:00:00
+EV-b62bde4b,OP-1002,Grading,adverse,,12,6,1.4,77.0,0.39,2026-09-20T00:00:00
+EV-cd8e770e,OP-1002,Demolition,normal,,20,14,-7.8,90.2,0.64,2026-09-20T00:00:00
+EV-558dea5f,OP-1002,Demolition,adverse,,8,4,-1.2,78.2,0.32,2026-09-20T00:00:00
+EV-9c3d66dc,OP-1003,Earth Excavation,normal,,3,2,9.5,77.4,0.21,2026-09-20T00:00:00
+EV-8a365f11,OP-1003,Earth Excavation,adverse,,0,0,,,0.0,2026-09-20T00:00:00
+EV-12aa05ad,OP-1003,Trenching,normal,,19,13,2.2,73.0,0.62,2026-09-20T00:00:00
+EV-f2e7c8e9,OP-1003,Trenching,adverse,,9,5,2.2,75.6,0.38,2026-09-20T00:00:00
+EV-898d4d77,OP-1003,Material Loading,normal,,14,9,2.8,91.8,0.53,2026-09-20T00:00:00
+EV-6278e9f2,OP-1003,Material Loading,adverse,,0,0,,,0.0,2026-09-20T00:00:00
+EV-9d8aead4,OP-1003,Grading,normal,,18,9,10.6,94.6,0.45,2026-09-20T00:00:00
+EV-3da6e68f,OP-1003,Grading,adverse,,9,4,-3.2,85.9,0.3,2026-09-20T00:00:00
+EV-dc45d3f7,OP-1003,Demolition,normal,,5,3,1.7,71.9,0.28,2026-09-20T00:00:00
+EV-7171984e,OP-1003,Demolition,adverse,,4,2,1.5,85.4,0.2,2026-09-20T00:00:00
+EV-112d0162,OP-1004,Earth Excavation,normal,,30,20,11.3,96.0,0.65,2026-09-20T00:00:00
+EV-cfa0aed2,OP-1004,Earth Excavation,adverse,,6,3,-0.0,88.8,0.26,2026-09-20T00:00:00
+EV-89b53fb2,OP-1004,Trenching,normal,,14,9,2.4,73.4,0.53,2026-09-20T00:00:00
+EV-bfa33c2f,OP-1004,Trenching,adverse,,7,3,-7.6,85.5,0.25,2026-09-20T00:00:00
+EV-375a60dd,OP-1004,Material Loading,normal,,21,13,-6.6,87.7,0.57,2026-09-20T00:00:00
+EV-39e45e37,OP-1004,Material Loading,adverse,,7,3,-7.4,79.3,0.25,2026-09-20T00:00:00
+EV-50a028fd,OP-1004,Grading,normal,,19,11,5.4,76.0,0.53,2026-09-20T00:00:00
+EV-bde55748,OP-1004,Grading,adverse,,4,2,9.6,86.1,0.2,2026-09-20T00:00:00
+EV-b79a13d0,OP-1004,Demolition,normal,,10,7,8.1,75.3,0.5,2026-09-20T00:00:00
+EV-fadb6dff,OP-1004,Demolition,adverse,,3,2,-0.9,81.5,0.21,2026-09-20T00:00:00
+EV-94225d00,OP-1005,Earth Excavation,normal,,4,4,11.7,72.8,0.39,2026-09-20T00:00:00
+EV-7a46295d,OP-1005,Earth Excavation,adverse,,12,9,8.0,73.1,0.58,2026-09-20T00:00:00
+EV-ce09e7fd,OP-1005,Trenching,normal,,9,8,1.0,81.8,0.6,2026-09-20T00:00:00
+EV-8e6dfdd0,OP-1005,Trenching,adverse,,8,6,9.5,72.1,0.47,2026-09-20T00:00:00
+EV-759f6b3b,OP-1005,Material Loading,normal,,28,27,3.0,71.4,0.94,2026-09-20T00:00:00
+EV-36383a26,OP-1005,Material Loading,adverse,,0,0,,,0.0,2026-09-20T00:00:00
+EV-d327e979,OP-1005,Grading,normal,,27,26,-4.7,83.6,0.93,2026-09-20T00:00:00
+EV-31bf4ed5,OP-1005,Grading,adverse,,6,5,10.0,74.6,0.44,2026-09-20T00:00:00
+EV-cbf40823,OP-1005,Demolition,normal,,3,3,-2.7,92.0,0.31,2026-09-20T00:00:00
+EV-f16a9809,OP-1005,Demolition,adverse,,14,10,5.9,90.5,0.59,2026-09-20T00:00:00
+EV-55ba8eaf,OP-1006,Earth Excavation,normal,,24,22,-4.9,78.3,0.87,2026-09-20T00:00:00
+EV-1e768f80,OP-1006,Earth Excavation,adverse,,1,1,2.8,90.9,0.12,2026-09-20T00:00:00
+EV-cf1cd0d6,OP-1006,Trenching,normal,,4,3,1.5,95.7,0.3,2026-09-20T00:00:00
+EV-375ba35c,OP-1006,Trenching,adverse,,5,3,2.2,93.8,0.28,2026-09-20T00:00:00
+EV-a478ab7b,OP-1006,Material Loading,normal,,5,4,5.5,76.6,0.37,2026-09-20T00:00:00
+EV-4a819bc0,OP-1006,Material Loading,adverse,,3,2,3.4,86.2,0.21,2026-09-20T00:00:00
+EV-76720707,OP-1006,Grading,normal,,4,4,0.4,86.3,0.39,2026-09-20T00:00:00
+EV-e2313041,OP-1006,Grading,adverse,,10,8,-3.9,90.1,0.57,2026-09-20T00:00:00
+EV-c9c56fc7,OP-1006,Demolition,normal,,10,8,-5.4,88.1,0.57,2026-09-20T00:00:00
+EV-3014df4e,OP-1006,Demolition,adverse,,14,9,7.0,72.0,0.53,2026-09-20T00:00:00
+EV-6acbca32,OP-1007,Earth Excavation,normal,,21,17,-6.5,76.0,0.75,2026-09-20T00:00:00
+EV-044217aa,OP-1007,Earth Excavation,adverse,,8,4,-1.0,71.9,0.32,2026-09-20T00:00:00
+EV-9c33626e,OP-1007,Trenching,normal,,10,7,-4.8,93.3,0.5,2026-09-20T00:00:00
+EV-b4be41f5,OP-1007,Trenching,adverse,,9,5,11.7,88.3,0.38,2026-09-20T00:00:00
+EV-10a7c11f,OP-1007,Material Loading,normal,,3,2,3.1,96.1,0.21,2026-09-20T00:00:00
+EV-79e7c15a,OP-1007,Material Loading,adverse,,3,2,-5.3,73.2,0.21,2026-09-20T00:00:00
+EV-7f51f7a8,OP-1007,Grading,normal,,6,5,-4.9,77.9,0.44,2026-09-20T00:00:00
+EV-dcc66fa6,OP-1007,Grading,adverse,,6,4,-3.9,87.8,0.35,2026-09-20T00:00:00
+EV-333b20e7,OP-1007,Demolition,normal,,11,8,-3.0,95.4,0.54,2026-09-20T00:00:00
+EV-3f74d6ab,OP-1007,Demolition,adverse,,1,1,0.5,77.7,0.12,2026-09-20T00:00:00
+EV-7ca80879,OP-1008,Earth Excavation,normal,,27,13,11.6,74.5,0.47,2026-09-20T00:00:00
+EV-0f4dde24,OP-1008,Earth Excavation,adverse,,14,6,0.6,70.3,0.35,2026-09-20T00:00:00
+EV-7b4b767c,OP-1008,Trenching,normal,,5,3,5.8,74.2,0.28,2026-09-20T00:00:00
+EV-eb983c51,OP-1008,Trenching,adverse,,1,0,3.7,74.1,0.0,2026-09-20T00:00:00
+EV-9024b4ca,OP-1008,Material Loading,normal,,7,3,-0.7,96.1,0.25,2026-09-20T00:00:00
+EV-f97f621b,OP-1008,Material Loading,adverse,,1,0,-3.8,77.0,0.0,2026-09-20T00:00:00
+EV-0d6bffc3,OP-1008,Grading,normal,,6,3,3.2,94.5,0.26,2026-09-20T00:00:00
+EV-a72da4fd,OP-1008,Grading,adverse,,4,2,-3.3,74.6,0.2,2026-09-20T00:00:00
+EV-49e99a30,OP-1008,Demolition,normal,,28,17,9.6,70.7,0.59,2026-09-20T00:00:00
+EV-3fc1ce60,OP-1008,Demolition,adverse,,10,5,0.2,88.8,0.36,2026-09-20T00:00:00
+EV-e6014c7c,OP-1009,Earth Excavation,normal,,10,8,7.7,73.0,0.57,2026-09-20T00:00:00
+EV-a744869c,OP-1009,Earth Excavation,adverse,,1,1,-3.6,92.9,0.12,2026-09-20T00:00:00
+EV-5bc241a5,OP-1009,Trenching,normal,,17,14,8.4,94.4,0.73,2026-09-20T00:00:00
+EV-30f45481,OP-1009,Trenching,adverse,,7,4,-4.1,79.2,0.33,2026-09-20T00:00:00
+EV-936d7d16,OP-1009,Material Loading,normal,,30,23,7.5,79.8,0.75,2026-09-20T00:00:00
+EV-4f1d3e8d,OP-1009,Material Loading,adverse,,12,9,8.9,79.3,0.58,2026-09-20T00:00:00
+EV-e402dcb2,OP-1009,Grading,normal,,3,2,11.4,75.0,0.21,2026-09-20T00:00:00
+EV-19b61d0a,OP-1009,Grading,adverse,,8,5,3.9,79.7,0.4,2026-09-20T00:00:00
+EV-aab7a566,OP-1009,Demolition,normal,,28,23,4.1,84.3,0.8,2026-09-20T00:00:00
+EV-38f3c4fb,OP-1009,Demolition,adverse,,12,9,-4.2,71.2,0.58,2026-09-20T00:00:00
+EV-a6d44095,OP-1010,Earth Excavation,normal,,19,15,2.8,90.1,0.72,2026-09-20T00:00:00
+EV-0aa59861,OP-1010,Earth Excavation,adverse,,6,3,-6.6,88.6,0.26,2026-09-20T00:00:00
+EV-50523e22,OP-1010,Trenching,normal,,13,10,5.3,73.5,0.62,2026-09-20T00:00:00
+EV-f64c31f1,OP-1010,Trenching,adverse,,9,5,5.3,79.1,0.38,2026-09-20T00:00:00
+EV-d8b2c18f,OP-1010,Material Loading,normal,,25,17,-5.5,81.8,0.65,2026-09-20T00:00:00
+EV-c5b29901,OP-1010,Material Loading,adverse,,12,7,10.1,87.2,0.45,2026-09-20T00:00:00
+EV-a5b54787,OP-1010,Grading,normal,,12,8,8.7,78.5,0.52,2026-09-20T00:00:00
+EV-cfd2be6b,OP-1010,Grading,adverse,,6,3,3.6,88.3,0.26,2026-09-20T00:00:00
+EV-8892a179,OP-1010,Demolition,normal,,17,12,5.5,84.3,0.62,2026-09-20T00:00:00
+EV-f991db55,OP-1010,Demolition,adverse,,5,3,-2.3,88.6,0.28,2026-09-20T00:00:00

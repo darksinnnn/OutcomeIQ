@@ -1,0 +1,9 @@
+id,model,machine_family,age_years,install_date
+EXC-100,Cat 320,excavator,2.1,2019-01-01
+DOZ-201,Cat 321,dozer,4.3,2019-01-01
+EXC-102,Cat 322,loader,0.7,2019-01-01
+DOZ-203,Cat 323,excavator,2.0,2019-01-01
+EXC-104,Cat 324,dozer,5.4,2019-01-01
+DOZ-205,Cat 325,loader,4.6,2019-01-01
+EXC-106,Cat 326,excavator,2.2,2019-01-01
+DOZ-207,Cat 327,dozer,4.9,2019-01-01

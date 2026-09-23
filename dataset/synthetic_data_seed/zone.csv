@@ -1,0 +1,5 @@
+id,project_id,name,soil_type,notes
+ZONE-A,PRJ-001,Zone A,clay,
+ZONE-B,PRJ-001,Zone B,sandy_loam,
+ZONE-C,PRJ-001,Zone C,gravel_fill,
+ZONE-D,PRJ-001,Zone D,clay,
